@@ -63,7 +63,6 @@ jsonString = '''
   }
 }
 '''
-
 parsedJSON = parseJSON(jsonString)
 print(parsedJSON)
 
